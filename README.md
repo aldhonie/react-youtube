@@ -1,3 +1,6 @@
+
+Repo ini merupakan hasil pembelajaran section 1 react redux dari stephen grider.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
